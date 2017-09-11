@@ -6,7 +6,7 @@
 
 ## **Hello, Intro to Web-Dev. What's New?**
 
- I believe it is safe to say that there are many beginners in the same boat. After reading comments from the first Topic, we can agree that this is tough. So far, I have found that watching the videos and following instructions closely are helpful, yet this is still overwhelming!!!!
+ I believe it is safe to say that there are many beginners in this class, all in the same boat. After reading comments from the first Topic, I think it is safe to say that this is in fact, a tough class. So far, I have found that watching the videos and following instructions closely are helpful. This is still all overwhelming and interesting that I am excited to challenege myself with something unfamiliar!
 
  The videos I am referring to are linked here: https://vimeo.com/mediaedonline
 
