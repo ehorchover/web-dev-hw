@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Web-Dev Project 2, Part 2 </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="description" content="Instructable form">
+    <meta name="author" content="Erika Horchover">
+ </head>
+<body>
+  <form action="#" mehod="post" id="recipe-form" class="form-class">
+
+   <h1>Create an Account:</h1>
+   <p>Please create an account with using the format "Foodie_Username".
+   </p>
+   <p>
+      Username:
+      <input type="text" name="username" id="username_input" value="Foodie_" autofocus />
+   </p>
+   <p>
+      Password:
+      <input type="password" name="password" maxlength="10" size="10"/>
+   </p>
+   <p>
+      E-mail:
+      <input type="text" name="email" placeholder="jsmith@email.com" autofocus/>
+   </p>
+
+   <hr />
+
+   <h2>Share and Get Involved with other Foodies!</h2>
+
+   <p>How did your cinnamon rolls turn out?</p>
+   <textarea name="comments" cols="6" rows="6" style="min-width:100%">
+      My recipe went...
+   </textarea>
+   <p>Upload a picture of your completed cinnamon rolls:</p>
+ <input type="file" name="user-image" />
+    <br />
+ <input type="submit" value="Upload" />
+  </form>
+</body>
