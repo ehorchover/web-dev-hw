@@ -124,6 +124,7 @@ header {
 .paragraph {
   font-size: 30px;
   color: #000000
+  background-color: #D3D3D3;
   font-style: regular;
   font-family: 'Raleway';
   line-height: 1.45em;
