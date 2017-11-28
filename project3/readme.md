@@ -22,3 +22,7 @@
 - Some good has come out of all this, I hope. I have had a difficult time with styling text separately but think I managed to fix most of it, except psuedo-elements and pseudo-classes. Struggling with those for some reason.
 - I had to change the color pattern a bit to a point where I think it is decent enough.
 - Honestly, I am not sure what direction this blog is going in but I think that's what great about it being a personal blog. It's like life, unpredictable and not going as planned.
+##CSS Pt.3
+- Some personal things came up and to be frank, the last two and a half weeks have gone right by. Leaving me in the dust, I am playing catch up with everything and it has been difficult but will happen.
+- This Pt.3 seemed harder than it should have, maybe because of added stress? Anyway, I am struggling to fix the dropdown item in my navigation bar. The link is there but once I added the dropdown option the link for my "About" page and the dropdown link is messed up. Working on a solution, still. I have a feeling that there are some lines of code that I don't need anymore and have to clean up to avoid canceling certain styles out.
+- This site is not what I was expecting but I don't dislike it completely.
