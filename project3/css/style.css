@@ -203,15 +203,16 @@ header {
    height: 300px;
    background-color: #000000;
    margin-bottom: 10px;
-   color: white;
-   position: relative;
+   color: #FFFFFF;
    float: right;
+   display: block;
 }
 .inner-box {
    width: 50%;
    height: 75%;
    background-color: #C0C0C0;
-   color: #333;
+   color: #FFFFFF;
+   display: block;
 }
 /* Psuedo-Element */
 p::first-letter {
